@@ -15,9 +15,9 @@
 - Crear el entorno virtual
 - instalar las librerias necesarias
 
-  $ pip install -r requirements.txt
-
 ### Levantar el proyecto
+
+    $ pip install -r requirements.txt
 
     $ flask --app app run
 
