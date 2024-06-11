@@ -25,3 +25,7 @@
 
 http://127.0.0.1:5000/sendmail
 http://localhost:5000/sendmail
+
+### Observaciones
+
+tanto la cuenta de email, como la contraseña de aplicacion por el momento estan funcional para pruebas, fueron creadas solo para este ejercicio.
